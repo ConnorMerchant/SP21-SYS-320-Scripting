@@ -1,0 +1,31 @@
+Why you selected the four other cmdlets and its usefulness during an investigation.
+
+The 4 other cmdlets I selected where partially for usefullness and partially to keep things simple. 
+
+   a. Getting all logged on users
+        This seems like somehting I would want to pull to ensure there are no other users logged on that I wouldnt know about
+        
+   b. Grabbing the 40 newest logs
+        Getting the most recent logs is a good way to see what had happened on the computer. This is also something that could easily
+        be adjusted to see more logs further back.
+   
+   c. Checking cmd history 
+        Seeing the history of commands that have been entered seems like a really good thing to know.
+   
+   
+   d. Check update history
+        Often times updates can cause issues. This is something that is useful as it may show if an update has a corelation to an issue.
+   
+What did you find the most challenging about this assignment and what did you do to overcome it? Please give your response some thought.
+
+    The most challenging part of this assigment was organizing the script and making sure everything worked together.
+    To get around this I created a bunch of seperate functions for everything that needed to be done. 
+    This helped me ensure each element was working correctly and if not it was easier to trace down.
+    One thing I would have done differently however was the pathing for saving and hashing. I got everything working however if 
+    I created a variable or function that could have done it more effeciently that would have been nice.
+    
+What did you like the most about this assignment and why? Please give your response some thought.
+
+    This lab was really tough and it was by far the biggest powershell lab we had. I liked that a lot honestly it feels like everything 
+    really came together on this lab. Even though it took me much longer to do than I would have liked I enjoyed how it really feels like
+    I can use powershell to create something more useful.
